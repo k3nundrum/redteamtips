@@ -1,9 +1,6 @@
 #sourced from github.com/harleyQu1nn/csfm/tree/master
 - all credit goes to @r3dQu1nn & @001SPARTaN
 
-#sourced from github.com/harleyQu1nn/csfm/tree/master
-- all credit goes to @r3dQu1nn & @001SPARTaN
-
 Red Tip #1: Profile your victim and use their user agent to mask your traffic. Alternatively use UA from software such as Outlook.
 redtip
 
